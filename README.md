@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👾 Hey, I'm DemonRoot
 
-<!--
-**DemonRoot/DemonRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cybersecurity Enthusiast | Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering student specialising in **IoT, Cybersecurity and Blockchain Technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about programming, software development, cybersecurity and exploring emerging technologies.
+
+### ⚡ About Me
+- 🎓 CSE Student – IoT, Cybersecurity & Blockchain Technology
+- 🔐 Exploring Cybersecurity & Ethical Hacking
+- 💻 Learning Software Development
+- 🐍 Working with Python
+- ☕ Exploring Java
+- 🌐 Interested in IoT & Blockchain
+- 🚀 Participating in Hackathons and Coding Challenges
+
+### 🛠️ Technologies & Interests
+
+**Programming**
+- Python
+- Java
+
+**Technology**
+- Cybersecurity
+- Ethical Hacking
+- Internet of Things (IoT)
+- Blockchain Technology
+- Computer Networks
+- Linux
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+### 📂 My Projects
+- CodeCraft – Python Programming Projects
+- ShadowFox – Java Internship Projects
+- ShadowFox Bank System
+
+### 🎯 Current Goals
+- Strengthen programming fundamentals
+- Learn Linux and computer networking
+- Explore ethical hacking and penetration testing
+- Build practical cybersecurity projects
+- Develop real-world software applications
+- Participate in hackathons and tech competitions
+
+### 🏴 My Philosophy
+
+> Think beyond limits.  
+> Build without fear.  
+> Create without boundaries.
+
+---
+
+⭐ Always Learning | Always Building | Always Exploring
