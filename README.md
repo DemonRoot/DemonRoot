@@ -20,6 +20,7 @@ Passionate about programming, software development, cybersecurity and exploring 
 **Programming**
 - Python
 - Java
+- C
 
 **Technology**
 - Cybersecurity
